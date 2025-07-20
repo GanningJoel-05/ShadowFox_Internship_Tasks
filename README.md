@@ -43,7 +43,7 @@
    🔹 Menu-based interaction.
    🔹 Basic data handling using collections.
    
-## 🟡 INTERMEDIATE LEVEL PROJECTS
+## 🟡 INTERMEDIATE LEVEL PROJECTS:
 
 **1) Bank Management System (Console-based):**
    🔹 A simulation of a simple bank where users can:
@@ -102,7 +102,7 @@
 ## 📫 Connect with Me
    🔹 **Name:**     Ganning Joel J
    🔹 **Email:**    ganningjoel169@gmail.com
-   🔹 **LinkedIn:** 🔹 **LinkedIn:** [linkedin.com/in/ganningjoelj1609](https://www.linkedin.com/in/ganningjoelj1609)
+   🔹 **LinkedIn:** [linkedin.com/in/ganningjoelj1609](https://www.linkedin.com/in/ganningjoelj1609)
    🔹 **GitHub:**   [github.com/your-github-username](https://github.com/GanningJoel-05).
 
    🔹 ⭐ Star this repository if you found it helpful!
